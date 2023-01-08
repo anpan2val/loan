@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import Anpan2ValLoanLoan from './anpan2val.loan.loan'
 
 
 export default { 
+  Anpan2ValLoanLoan: load(Anpan2ValLoanLoan, 'anpan2val.loan.loan'),
   
 }
 
