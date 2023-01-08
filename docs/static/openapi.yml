@@ -44932,6 +44932,8 @@ definitions:
         type: string
       lender:
         type: string
+  anpan2val.loan.loan.MsgApproveLoanResponse:
+    type: object
   anpan2val.loan.loan.MsgRequestLoanResponse:
     type: object
   anpan2val.loan.loan.Params:
